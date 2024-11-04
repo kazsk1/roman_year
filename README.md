@@ -13,40 +13,40 @@ git clone git@github.com:kazsk1/roman_year --recursive
 ```
 
 ## Usage
-1. Convert Numbers to Roman numerals in uppercase
+1) Convert Numbers to Roman numerals in uppercase
 ``` powershell or bash
 python3 get_roman_year.py [NUMBERS]
 ```
 
-2. Convert Numbers to Roman numerals in uppercase using D
+2) Convert Numbers to Roman numerals in uppercase using D
 ``` powershell or bash
 python3 get_roman_year.py [NUMBERS] d
 python3 get_roman_year.py [NUMBERS] D
 ```
 
-3. Convert Numbers to Roman numerals in lowercase using d
+3) Convert Numbers to Roman numerals in lowercase using d
 ``` powershell or bash
 python3 get_roman_year.py [NUMBERS] l
 python3 get_roman_year.py [NUMBERS] lowercase
 ```
 
-4. Convert Numbers to Roman numerals in lowercase not using d
+4) Convert Numbers to Roman numerals in lowercase not using d
 ``` powershell or bash
 python3 get_roman_year.py [NUMBERS] i
 ```
 
-5. Convert Numbers to Roman numerals in lowercase not using d / using j
+5) Convert Numbers to Roman numerals in lowercase not using d / using j
 ``` powershell or bash
 python3 get_roman_year.py [NUMBERS] j
 ```
 
-6. Show Rules of converting Numbers to Roman numerals
+6) Show Rules of converting Numbers to Roman numerals
 ``` powershell or bash
 python3 get_roman_year.py r
 python3 get_roman_year.py rules
 ```
 
-7. Show Help
+7) Show Help
 ``` powershell or bash
 python3 get_roman_year.py h
 python3 get_roman_year.py help
