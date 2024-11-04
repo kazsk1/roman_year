@@ -53,7 +53,7 @@ python3 get_roman_year.py help
 ```
 
 ## Examples
-1. Convert the year 1493 to the roman year in uppercase
+1) Convert the year 1493 to the roman year in uppercase
 ``` powershell or bash
 python3 get_roman_year.py 1493
 ```
@@ -61,7 +61,7 @@ python3 get_roman_year.py 1493
   > Conversion
   > 1493 = MCCCCLXXXXIII
 
-2. Convert the year 1888 to the roman year in uppercase using D
+2) Convert the year 1888 to the roman year in uppercase using D
 ``` powershell or bash
 python3 get_roman_year.py 1493 d
 ```
@@ -69,7 +69,7 @@ python3 get_roman_year.py 1493 d
   > Conversion
   > 1493 = MCDXCIII
 
-3. Convert the year 1493 to the roman year in lowercase
+3) Convert the year 1493 to the roman year in lowercase
 ``` powershell or bash
 python3 get_roman_year.py 1493 l
 ```
@@ -77,7 +77,7 @@ python3 get_roman_year.py 1493 l
   > Conversion
   > 1493 = Mcdxciii
 
-4. Convert the year 1493 to the roman year in lowercase not using d
+4) Convert the year 1493 to the roman year in lowercase not using d
 ``` powershell or bash
 python3 get_roman_year.py 1493 i 
 ```
@@ -85,7 +85,7 @@ python3 get_roman_year.py 1493 i
   > Conversion
   > 1493 = Mcccclxxxxiii
 
-5. Convert the year 1493 to the roman year in lowercase not using d / using j
+5) Convert the year 1493 to the roman year in lowercase not using d / using j
 ``` powershell or bash
 python3 get_roman_year.py 1493 j
 ```
