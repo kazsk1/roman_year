@@ -1,0 +1,25 @@
+# folders #
+old/
+venv/
+.vscode/
+
+# mac #
+.DS_Store
+
+# win #
+*.exe
+
+# vim #
+*.un~
+*.swo
+*.swp
+
+# tmp #
+*.a
+*.b
+*.[d-z]
+
+
+
+
+
