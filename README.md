@@ -8,7 +8,7 @@ This is intended to check information about a specific year in the Middle Ages.
 (Luca Pacioli, Summa de arithmetica, geometria, proportioni et proportionalita [1494])
 
 ## Getting Started
-``` powershell or bash
+``` 
 git clone git@github.com:kazsk1/roman_year --recursive
 ```
 
